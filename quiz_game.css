@@ -1,0 +1,22 @@
+
+
+body{
+
+    background-color: #1a1adb;
+}
+
+
+
+
+
+
+  #output
+  {
+background:white;
+border-radius: 10px;
+border-color: 10px solid #1a1adb;
+padding: 10px;
+float: none;
+text-align:left;
+
+  }
